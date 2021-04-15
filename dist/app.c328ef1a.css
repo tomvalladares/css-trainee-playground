@@ -1,0 +1,27 @@
+.button[data-v-43d8ac] {
+  background: #7f5af0;
+  color: #fffffe;
+  text-align: center;
+}
+.home[data-v-43d8ac] {
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  -ms-grid-rows: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  height: 100vh;
+  padding: 50px;
+}
+p[data-v-43d8ac] {
+  color: #94a1b2;
+}
+
+.section[data-v-78b515] {
+  padding: 20px;
+  color: #008000;
+}
+.section img[data-v-78b515] {
+  display: block;
+  max-width: 100px;
+  margin-bottom: 10px;
+}
+
